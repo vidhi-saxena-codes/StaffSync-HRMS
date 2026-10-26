@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - Modern HR Management System",
+  "description": "Comprehensive SaaS HRMS featuring real-time dashboard analytics, employee directory, department governance, attendance check-in/out, leave approvals, and payroll processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
